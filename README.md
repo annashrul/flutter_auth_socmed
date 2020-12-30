@@ -1,4 +1,4 @@
-# f_firebase_crud
+# FLUTTER AUTH SOCIAL MEDIA
 
 A new Flutter application.
 
